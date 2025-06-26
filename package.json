@@ -1,0 +1,28 @@
+{
+  "name": "pedra_paper_tissores",
+  "version": "1.0.0",
+  "description": "Aplicación de Piedra-Papel-Tijeras",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anondiaz/despliegue_docker_pedra-paper-tissores_MF10493.git"
+  },
+  "keywords": [
+    "Juego",
+    "Piedra",
+    "Papel",
+    "Tijeras"
+  ],
+  "author": "Andres Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anondiaz/despliegue_docker_pedra-paper-tissores_MF10493/issues"
+  },
+  "homepage": "https://github.com/anondiaz/despliegue_docker_pedra-paper-tissores_MF10493#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
